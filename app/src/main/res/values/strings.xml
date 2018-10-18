@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exif编辑器</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">工藤</string>
+    <string name="nav_header_subtitle">https://github.com/SherlockGougou</string>
+    <string name="nav_header_desc">工藤</string>
+    <string name="text_about_me">关于</string>
+    <string name="text_other">其他</string>
+    <string name="text_feedback">反馈bug</string>
+    <string name="text_grade_me">评价应用</string>
+</resources>
